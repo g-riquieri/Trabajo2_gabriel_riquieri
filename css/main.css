@@ -12,4 +12,9 @@
 
 .jumbotron p {
   color: aliceblue;
+  font-weight: 400;
+}
+
+.col-md-4 h2{
+   font-weight: bold;
 }
